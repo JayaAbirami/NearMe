@@ -1,4 +1,4 @@
-![Screenshot 2024-04-04 085436](https://github.com/JayaAbirami/NearMe/assets/151487010/b9fe94f1-7b9d-4a4f-8496-dba8865310ab)# Ex04 Places Around Me
+# Ex04 Places Around Me
 ## Date: 
 15.04.2024
 
