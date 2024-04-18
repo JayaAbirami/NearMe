@@ -64,7 +64,8 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
-![Uploading map screenshot.png…]()
+
+![map screenshot](https://github.com/JayaAbirami/NearMe/assets/151487010/8a908928-be2a-49f2-9b41-addf3d9ae5cf)
 
 
 ## RESULT
